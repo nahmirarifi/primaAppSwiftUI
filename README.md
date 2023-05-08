@@ -7,9 +7,16 @@
   <br>
   <sub><sup><b>Hello This is my first App using SwiftUI :)</b></sup></sub>
   <br>
-
 </h1>
 
 <p align="center">
-On this app i used SwiftUI, MongoDB
+Experience
+These are the technologies I've worked with
+<p>* HTML, CSS, PHP, JavaScript</p>
+<p>* ReactJS, Redux, Redux ToolKit, Bootstrap etc</p>
+<p>* NextJS</p>
+<p>* NodeJS</p>
+<p>* SwiftUI</p>
+<p>* React-Native (React-Native CLI, Expo), Redux, Redux ToolKit, Tailwind etc</p>
+<p>* AWS, FireBase, MongoDB</p>  
 </p>
